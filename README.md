@@ -1,7 +1,8 @@
 # Exploring Airbnb Seattle Data
 
 ## Dependencies
-Pandas and geopandas are required for data analysis. I use seaborn for visualization. It's tricky to install geopandas, please refer to [this link]().
+Pandas and geopandas are required for data analysis. I use seaborn for visualization. It's tricky to install geopandas, please refer to [this link](
+https://geopandas.org/en/stable/getting_started/install.html).
 
 ## Motivation
 This is a practice to apply the knowledge I learned from the Udacity Data Scientist Nano Degree to explore the Airbnb Seattle data. The exercise follows the CRISP-DM Process:
