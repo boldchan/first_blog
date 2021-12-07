@@ -15,6 +15,8 @@ This is a practice to apply the knowledge I learned from the Udacity Data Scient
 ## Files description
 Please check discover.ipynb for all data analysis and visualization.
 
+For more description you can check [this blog](https://medium.com/@comprehensiom/exploring-airbnb-seattle-data-8603eac3880a) 
+
 ## Acknowledge
 I use the data from [Airbnb](https://www.kaggle.com/airbnb/seattle/data) and [Seattle goverment](https://data.seattle.gov/browse/select_dataset?tags=boundaries).
 
