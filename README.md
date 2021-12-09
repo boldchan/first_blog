@@ -5,12 +5,11 @@ Pandas and geopandas are required for data analysis. I use seaborn for visualiza
 https://geopandas.org/en/stable/getting_started/install.html).
 
 ## Motivation
-This is a practice to apply the knowledge I learned from the Udacity Data Scientist Nano Degree to explore the Airbnb Seattle data. The exercise follows the CRISP-DM Process:
-- business understanding
-- data understanding
-- prepare the data
-- data modelling
-- evaluate the results.
+I try to answer the following questions from the Airbnb data:
+- How is the average price spatially distributed?
+- How does the price fluctuate by time?
+- Which areas have the highest price change in a year?
+- which factors if the accommodation have the best influence of the revisiting
 
 ## Files description
 Please check discover.ipynb for all data analysis and visualization.
